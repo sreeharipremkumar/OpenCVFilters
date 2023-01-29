@@ -1,5 +1,7 @@
 Link to Video showcasing the filters:
 https://drive.google.com/file/d/1fi_foPieEVRL0OKXBkuolwBHd1xzrjmw/view?usp=sharing
+(It was recorded using the recording feature within the application in a single go)
+(Although feels a bit jittery at certain places)
 
 OS : Ubuntu 20.04 LTS
 with VSCode and g++ compiler
